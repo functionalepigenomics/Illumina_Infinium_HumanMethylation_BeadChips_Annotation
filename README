@@ -1,3 +1,7 @@
+The repository offers non-cross-reactive probes for the Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays based on in silico analysis using the complete human reference genome T2T-CHM13.
+
 430,719 non-cross-reactive probes on the HM450K array
 777,491 non-cross-reactive probes on the EPIC array
 859,216 non-cross-reactive probes on the EPIC v2.0 array
+
+These non-cross-reactive probes is based on the concepts and methods described in Dong et al. 2023 Genome Biology
