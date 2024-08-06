@@ -1,7 +1,7 @@
 The repository offers unambiguous probes (i.e., probes uniquely mapping to the target region) for the Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays based on in silico analysis using the complete human reference genome T2T-CHM13.
 
 430,719 unambiguous probes on the HM450K array
-777,491 unambiguous probes on the EPIC array
+777,491 unambiguous probes on the EPIC (v1.0) array
 859,216 unambiguous probes on the EPIC v2.0 array
 
 These unambiguous probes are based on the concepts and methods described in Dong et al. 2023
