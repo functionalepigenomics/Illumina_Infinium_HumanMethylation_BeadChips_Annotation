@@ -13,7 +13,7 @@ populations.
  
  ## [image](https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526)
 
-## :computer Unambiguous probes
+## :computer: Unambiguous probes
 
     430,719 unambiguous probes on the HM450K array
     777,491 unambiguous probes on the EPIC (v1.0) array
