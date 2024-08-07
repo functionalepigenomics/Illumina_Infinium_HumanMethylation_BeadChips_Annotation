@@ -1,11 +1,11 @@
-# Gaurav Chouhan 😃
+# Illumina Infinium HumanMethylation BeadChips Annotation 😃
 Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
 
 ## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+The repository provides unambiguous probes (i.e., probes uniquely mapping to the target region) for Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays. These probes are evaluated using T2T-CHM13, the pangenome, and a combination of 95 assemblies (including T2T-CHM13 and 94 assemblies from the pangenome). Cross-population and population-specific unambiguous probes identified using the pangenome reference are also available. Importantly, we offer T2T-CHM13-based annotation information for each unambiguous probe, which can be leveraged to infer the potential biological functions of DNA methylation alterations in Epigenome-Wide Association Studies.
 
 ## 👯 Communities
-The repository provides unambiguous probes (i.e., probes uniquely mapping to the target region) for Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays. These probes are evaluated using T2T-CHM13, the pangenome, and a combination of 95 assemblies (including T2T-CHM13 and 94 assemblies from the pangenome). Cross-population and population-specific unambiguous probes identified using the pangenome reference are also available. Importantly, we offer T2T-CHM13-based annotation information for each unambiguous probe, which can be leveraged to infer the potential biological functions of DNA methylation alterations in Epigenome-Wide Association Studies.
+
   
 ## ![image](https://github.com/user-attachments/assets/427ecfad-3360-4a05-9edd-de069e568b1d)
 Communities
