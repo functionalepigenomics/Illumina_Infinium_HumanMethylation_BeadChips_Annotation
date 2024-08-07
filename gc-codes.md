@@ -14,6 +14,7 @@ populations.
 
 ## :computer: Unambiguous probes
 <b>T2T-based:</b>
+
     430,719 unambiguous probes on the HM450K array
     777,491 unambiguous probes on the EPIC (v1.0) array
     859,216 unambiguous probes on the EPIC v2.0 array
