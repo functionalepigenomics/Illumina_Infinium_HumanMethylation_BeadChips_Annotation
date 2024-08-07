@@ -10,11 +10,11 @@ and has high specificity and sensitivity. In addition, the arrays outlined above
 showed high reproducibility across technical and biological replicates, and demonstrated strong
 correlations both with each other and with WGBS data. Given these advantages, DNAm arrays are widely used for genome-wide DNAm profiling in human
 populations.
-## [image](https://github.com/user-attachments/assets/427ecfad-3360-4a05-9edd-de069e568b1d)
-![image](https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526)
+ 
+ ## [image](https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526)
 
+## :computer Unambiguous probes
 
-Communities
     430,719 unambiguous probes on the HM450K array
     777,491 unambiguous probes on the EPIC (v1.0) array
     859,216 unambiguous probes on the EPIC v2.0 array
