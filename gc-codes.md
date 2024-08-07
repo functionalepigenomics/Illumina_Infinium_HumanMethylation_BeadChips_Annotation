@@ -13,12 +13,12 @@ correlations both with each other and with WGBS data. Given these advantages, DN
 populations.
 
 ## :computer: Unambiguous probes
-
+<b>T2T-based:<b>
     430,719 unambiguous probes on the HM450K array
     777,491 unambiguous probes on the EPIC (v1.0) array
     859,216 unambiguous probes on the EPIC v2.0 array
 
-Pangenome-based:
+<b>Pangenome-based:<b>
     405,825 cross-population unambiguous probes on the HM450K array
     735,973 cross-population unambiguous probes on the EPIC (v1.0) array
     822,254 cross-population unambiguous probes on the EPIC v2.0 array
