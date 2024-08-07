@@ -11,7 +11,7 @@ showed high reproducibility across technical and biological replicates, and demo
 correlations both with each other and with WGBS data. Given these advantages, DNAm arrays are widely used for genome-wide DNAm profiling in human
 populations.
  
- ## [image](https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526)
+<img align="right" alt="img" src="[https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg](https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526)" width="50%" height="auto" />
 
 ## :computer: Unambiguous probes
 
