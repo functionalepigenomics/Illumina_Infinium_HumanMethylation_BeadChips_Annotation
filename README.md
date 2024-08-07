@@ -5,7 +5,7 @@
 The repository provides unambiguous probes (i.e., probes uniquely mapping to the target region) for Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays. These probes are evaluated using T2T-CHM13, the pangenome, and a combination of 95 assemblies (including T2T-CHM13 and 94 assemblies from the pangenome). Cross-population and population-specific unambiguous probes identified using the pangenome reference are also available. Importantly, we offer T2T-CHM13-based annotation information for each unambiguous probe, which can be leveraged to infer the potential biological functions of DNA methylation alterations in Epigenome-Wide Association Studies.
 
 #### 👯 Methylation arrays
-<img align="right" alt="img" src="https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526" width="45%" height="auto" />
+<img align="right" alt="img" src="https://github.com/user-attachments/assets/47086cb5-d0e1-4373-9860-ff071b614526" width="42%" height="auto" />
 The Illumina Infinium BeadChip array is the most widely used tool for characterizing genome-wide DNAm in humans, designed to measure DNAm level by the specific hybridization of each probe to the target DNAm site. The Illumina Infinium BeadChip array has a number of advantages in that it can be used
 to assess patterns of DNAm with single-nucleotide resolution, is easy to use, is cost-effective,
 and has high specificity and sensitivity. In addition, the arrays outlined above consistently
