@@ -25,26 +25,29 @@ populations.
     735,973 cross-population unambiguous probes on the EPIC (v1.0) array
     822,254 cross-population unambiguous probes on the EPIC v2.0 array
 
-    405,825 AFR-specific unambiguous probes on the HM450K array
-    735,973 AFR-specific unambiguous probes on the EPIC (v1.0) array
-    822,254 AFR-specific unambiguous probes on the EPIC v2.0 array    
+    405,457 AFR-specific unambiguous probes on the HM450K array
+    734,436 AFR-specific unambiguous probes on the EPIC (v1.0) array
+    820,417 AFR-specific unambiguous probes on the EPIC v2.0 array    
 
-    405,825 AMR-specific unambiguous probes on the HM450K array
-    735,973 AMR-specific unambiguous probes on the EPIC (v1.0) array
-    822,254 AMR-specific unambiguous probes on the EPIC v2.0 array    
+    408,212 AMR-specific unambiguous probes on the HM450K array
+    740,015 AMR-specific unambiguous probes on the EPIC (v1.0) array
+    822,511 AMR-specific unambiguous probes on the EPIC v2.0 array    
 
-    405,825 EAS-specific unambiguous probes on the HM450K array
-    735,973 EAS-specific unambiguous probes on the EPIC (v1.0) array
-    822,254 EAS-specific unambiguous probes on the EPIC v2.0 array    
+    415,138 EAS-specific unambiguous probes on the HM450K array
+    751,048 EAS-specific unambiguous probes on the EPIC (v1.0) array
+    832,466 EAS-specific unambiguous probes on the EPIC v2.0 array    
 
-    405,825 EUR-specific unambiguous probes on the HM450K array
-    735,973 EUR-specific unambiguous probes on the EPIC (v1.0) array
-    822,254 EUR-specific unambiguous probes on the EPIC v2.0 array  
+    411,079 EUR-specific unambiguous probes on the HM450K array
+    743,203 EUR-specific unambiguous probes on the EPIC (v1.0) array
+    821,974 EUR-specific unambiguous probes on the EPIC v2.0 array  
 
-    405,825 SAS-specific unambiguous probes on the HM450K array
-    735,973 SAS-specific unambiguous probes on the EPIC (v1.0) array
-    822,254 SAS-specific unambiguous probes on the EPIC v2.0 array  
+    410,577 SAS-specific unambiguous probes on the HM450K array
+    742,282 SAS-specific unambiguous probes on the EPIC (v1.0) array
+    821,130 SAS-specific unambiguous probes on the EPIC v2.0 array  
+    
+    Unambiguous probe sets specific to each of 12 human subpopulations are detailed in our paper below.
 
+<b>Pangenome+T2T-based:</b>
 
 
 ## ⚡ Technologies
