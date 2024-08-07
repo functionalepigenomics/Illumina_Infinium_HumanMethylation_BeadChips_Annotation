@@ -48,7 +48,10 @@ populations.
     Unambiguous probe sets specific to each of 12 human subpopulations are detailed in our paper below.
 
 <b>Pangenome+T2T-based:</b>
-
+    
+    405,640 cross-population unambiguous probes on the HM450K array
+    735,674 cross-population unambiguous probes on the EPIC (v1.0) array
+    821,942 cross-population unambiguous probes on the EPIC v2.0 array
 
 ## ⚡ Technologies
 These unambiguous probes are developed using the concepts and methods described in Dong et al. (2024)
