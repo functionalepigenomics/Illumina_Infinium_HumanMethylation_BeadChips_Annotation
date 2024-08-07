@@ -18,7 +18,7 @@ populations.
     777,491 unambiguous probes on the EPIC (v1.0) array
     859,216 unambiguous probes on the EPIC v2.0 array
 
-<b>Pangenome-based:<b>
+<b>Pangenome-based<b>:
     405,825 cross-population unambiguous probes on the HM450K array
     735,973 cross-population unambiguous probes on the EPIC (v1.0) array
     822,254 cross-population unambiguous probes on the EPIC v2.0 array
