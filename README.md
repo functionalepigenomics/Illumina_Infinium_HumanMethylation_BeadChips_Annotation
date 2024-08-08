@@ -1,7 +1,7 @@
-### Illumina Infinium HumanMethylation BeadChips Annotation 😃
+## Illumina Infinium HumanMethylation BeadChips Annotation 😃
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/functionalepigenomics)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dzheng.th@gmail.com)
-#### 🧐 About
+### 🧐 About
 The repository provides unambiguous probes (i.e., probes uniquely mapping to the target region) for Illumina 450K, EPIC/850K, and EPICv2.0/935K methylation arrays. These probes are evaluated using T2T-CHM13, the pangenome, and a combination of 95 assemblies (including T2T-CHM13 and 94 assemblies from the pangenome). Cross-population and population-specific unambiguous probes identified using the pangenome reference are also available. Importantly, we offer T2T-CHM13-based annotation information for each unambiguous probe, which can be leveraged to infer the potential biological functions of DNA methylation alterations in Epigenome-Wide Association Studies.
 
 #### 👯 Methylation arrays
