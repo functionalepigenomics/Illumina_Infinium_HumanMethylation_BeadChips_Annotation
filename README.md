@@ -57,7 +57,7 @@ populations.
 ### ⚡ Technologies
 These unambiguous probes are developed using the concepts and methods described in the paper.
 
-"Complete Reference Genome and Pangenome Expand Biologically Relevant Information for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array Data"
+"Complete Reference Genome and Pangenome Expand Biologically Relevant Information for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array Data" doi: https://doi.org/10.1101/2024.10.07.617116
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=functionalepigenomics&show_icons=true&hide_border=true" />
