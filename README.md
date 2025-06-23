@@ -55,7 +55,7 @@ populations.
      821,942 cross-population unambiguous probes on the EPIC v2.0 array
 
 ### ⚡ Technologies
-These unambiguous probes are developed using the concepts and methods described in the paper.
+These unambiguous probes are developed using the concepts and methods described in the paper:
 
 Dong Z, Whitehead J, Fu M, MacIsaac JL, Rehkopf DH, Rosero-Bixby L, Kobor MS, Korthauer K. Complete reference genome and pangenome improve genome-wide detection and interpretation of DNA methylation using sequencing and array data. Cell Rep. 2025 May 28;44(6):115755. doi: 10.1016/j.celrep.2025.115755. Epub ahead of print. PMID: 40445831.
 
