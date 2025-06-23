@@ -57,7 +57,7 @@ populations.
 ### ⚡ Technologies
 These unambiguous probes are developed using the concepts and methods described in the paper:
 
-Dong Z, Whitehead J, Fu M, MacIsaac JL, Rehkopf DH, Rosero-Bixby L, Kobor MS, Korthauer K. Complete reference genome and pangenome improve genome-wide detection and interpretation of DNA methylation using sequencing and array data. Cell Rep. 2025 May 28;44(6):115755. doi: 10.1016/j.celrep.2025.115755. Epub ahead of print. PMID: 40445831.
+Dong Z, Whitehead J, Fu M, MacIsaac JL, Rehkopf DH, Rosero-Bixby L, Kobor MS, Korthauer K. Complete reference genome and pangenome improve genome-wide detection and interpretation of DNA methylation using sequencing and array data. Cell Rep. 2025;44(6):115755. doi: 10.1016/j.celrep.2025.115755.
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=functionalepigenomics&show_icons=true&hide_border=true" />
